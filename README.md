@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, my name is Andrew and I'm a mobile front-end developer. 👋
 
-<!--
-**AppleDev879/AppleDev879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrewbarrett2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <!-- <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website Badge">
+  </a> -->
+  <a href="mailto:abarrett879@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="Mail Badge">
+  </a>
+  <!-- <a href="">
+    <img src="https://img.shields.io/badge/Devpost-blue?style=flat-square&logo=devpost&logoColor=white" alt="Devpost Badge">
+  </a> -->
+</p>
