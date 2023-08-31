@@ -5,9 +5,9 @@
   <a href="https://www.linkedin.com/in/andrewbarrett2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <!-- <a href="" target="_blank">
+  <a href="https://abarrett.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website Badge">
-  </a> -->
+  </a>
   <a href="mailto:abarrett879@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="Mail Badge">
   </a>
